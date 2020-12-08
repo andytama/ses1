@@ -1,0 +1,139 @@
+Id;Catégorie;Description;Energ_Kcal;Protéine;gras;Cholestérol;Sodium
+1;Breuvages;Lowfat Milk;100;8;2;10;115
+2;Déjeuners;Bacon Egg & Cheese Biscuit;480;21;31;250;1360
+3;Déjeuners;Bacon Egg & Cheese McGriddles™;450;19;23;240;1270
+4;Salades;Bacon Ranch Salad (without chicken);140;9;10;25;310
+5;Déjeuners;Bagel (plain);260;9;1;0;520
+6;Desserts;Baked Apple Pie;260;3;13;0;200
+7;Croquettes;Barbeque Sauce;45;0;0;0;250
+8;Déjeuners;Big Déjeuners;710;24;48;455;1430
+9;Sandwich;Big Mac ;580;24;33;85;1050
+10;Sandwich;Big N' Tasty ;530;24;32;80;790
+11;Sandwich;Big N' Tasty  with Cheese;580;26;37;95;1030
+12;Déjeuners;Biscuit;240;4;11;0;640
+13;Salades;Butter Garlic Croutons;50;1;1;0;140
+14;Desserts;Butterfinger   McFlurry ™ (12 fl oz cup);620;16;22;70;260
+15;Desserts;Butterfinger  McFlurry™ (16 fl oz cup);900;23;31;100;370
+16;Salades;Caesar Salad (without chicken);90;7;4;10;170
+17;Salades;California Cobb Salad (without chicken);160;11;11;85;450
+18;Sandwich;Cheeseburger;330;15;14;45;800
+19;Sandwich;Chicken McGrill ;400;25;17;60;890
+20;Croquettes;Chicken McNuggets  (10 piece);510;25;33;85;1140
+21;Croquettes;Chicken McNuggets  (20 piece);1030;49;65;170;2280
+22;Croquettes;Chicken McNuggets  (4 piece);210;10;13;35;460
+23;Croquettes;Chicken McNuggets  (6 piece);310;15;20;50;680
+24;Desserts;Chocolate Chip Cookie ;170;2;9;5;150
+25;Desserts;Chocolate Triple Thick™ Shake (12 fl oz cup);430;11;12;50;210
+26;Desserts;Chocolate Triple Thick™ Shake (16 fl oz cup);580;15;17;65;280
+27;Desserts;Chocolate Triple Thick™ Shake (21 fl oz cup);750;19;22;90;360
+28;Desserts;Chocolate Triple Thick™ Shake (32 fl oz cup);1150;30;33;135;550
+29;Déjeuners;Cinnamon Roll ;340;5;15;35;250
+30;Breuvages;Coca-Cola Classic  (Child) ;110;0;0;0;10
+31;Breuvages;Coca-Cola Classic  (Large) ;310;0;0;0;30
+32;Breuvages;Coca-Cola Classic  (Medium) ;210;0;0;0;20
+33;Breuvages;Coca-Cola Classic  (Small) ;150;0;0;0;15
+34;Breuvages;Coca-Cola Classic  (Super Size ) ;410;0;0;0;40
+35;Breuvages;Coffee (Large);10;0;0;0;10
+36;Breuvages;Coffee (Medium);5;0;0;0;5
+37;Breuvages;Coffee (Small);0;0;0;0;0
+38;Sandwich;Crispy Chicken;500;22;26;50;1100
+39;Salades;Crispy Chicken Bacon Ranch Salad;370;26;21;65;1040
+40;Salades;Crispy Chicken Caesar Salad;310;23;16;50;890
+41;Salades;Crispy Chicken California Cobb Salad;380;27;23;125;1170
+42;Breuvages;Diet Coke  (Child) ;0;0;0;0;20
+43;Breuvages;Diet Coke  (Large) ;0;0;0;0;60
+44;Breuvages;Diet Coke  (Medium) ;0;0;0;0;40
+45;Breuvages;Diet Coke  (Small) ;0;0;0;0;30
+46;Breuvages;Diet Coke  (Super Size ) ;0;0;0;0;75
+47;Sandwich;Double Cheeseburger;480;25;27;85;1220
+48;Sandwich;Double Quarter Pounder  with Cheese ;760;46;48;165;1450
+49;Déjeuners;Egg McMuffin ;300;18;12;235;840
+50;Déjeuners;English Muffin;150;5;2;0;270
+51;Sandwich;Filet-O-Fish ;470;15;26;50;730
+52;Desserts;Fruit 'n Yogurt Parfait (w/o granola)¯;280;8;4;15;115
+53;Desserts;Fruit 'n Yogurt Parfait¯;380;10;5;15;240
+54;Salades;Grilled Chicken Bacon Ranch Salad;270;28;13;75;830
+55;Salades;Grilled Chicken Caesar Salad;210;26;7;60;680
+56;Salades;Grilled Chicken California Cobb Salad;280;30;14;130;960
+57;Sandwich;Grilled Chicken Flatbread;520;28;22;70;1590
+58;Breuvages;Half & Half Creamer;15;0;1;5;0
+59;Déjeuners;Ham Egg & Cheese Bagel;550;26;23;255;1500
+60;Sandwich;Hamburger;280;12;10;30;560
+61;Déjeuners;Hash Browns;130;1;8;0;330
+62;Breuvages;Hi-C  Orange Drink (Child) ;120;0;0;0;20
+63;Breuvages;Hi-C  Orange Drink (Large) ;350;0;0;0;60
+64;Breuvages;Hi-C  Orange Drink (Medium) ;240;0;0;0;40
+65;Breuvages;Hi-C  Orange Drink (Small) ;160;0;0;0;30
+66;Breuvages;Hi-C  Orange Drink (Super Size ) ;460;0;0;0;75
+67;Croquettes;Honey;45;0;0;0;0
+68;Croquettes;Honey Mustard Sauce;50;0;4;10;95
+69;Sandwich;Hot 'n Spicy McChicken ;450;15;26;45;830
+70;Desserts;Hot Caramel Sundae;360;7;10;35;180
+71;Desserts;Hot Fudge Sundae;340;8;12;30;170
+72;Croquettes;Hot Mustard Sauce;60;1;3;5;240
+73;Déjeuners;Hotcakes (margarine 2 pats & syrup);600;9;17;20;770
+74;Breuvages;Iced Tea (Child);0;0;0;0;5
+75;Breuvages;Iced Tea (Large);0;0;0;0;20
+76;Breuvages;Iced Tea (Medium);0;0;0;0;15
+77;Breuvages;Iced Tea (Small);0;0;0;0;10
+78;Breuvages;Iced Tea (Super Size );0;0;0;0;25
+79;Desserts;Kiddie Cone;45;1;1;5;20
+80;Frites;Large Frites;540;8;26;0;350
+81;Croquettes;Light Mayonnaise?;45;0;4;10;100
+82;Desserts;M&M  McFlurry™ (12 fl oz cup);630;16;23;75;210
+83;Desserts;M&M  McFlurry™ (16 fl oz cup);910;23;33;105;300
+84;Sandwich;McChicken ;430;14;23;45;840
+85;Desserts;McDonaldland  Chocolate Chip Cookies;280;3;14;40;170
+86;Desserts;McDonaldland  Cookies;230;3;8;0;250
+87;Frites;McValue  Frites;320;5;16;0;210
+88;Frites;Medium Frites;450;6;22;0;290
+89;Desserts;Nestle Crunch  McFlurry™ (12 fl oz cup);630;16;24;75;230
+90;Desserts;Nestle Crunch  McFlurry™ (16 fl oz cup);920;23;35;110;340
+91;Vinaigrettes à salades;Newman's Own  Cobb Dressing;120;1;9;10;440
+92;Vinaigrettes à salades;Newman's Own  Creamy Caesar Dressing;190;2;18;20;500
+93;Vinaigrettes à salades;Newman's Own  Light Balsamic Vinaigrette?;90;0;8;0;950
+94;Vinaigrettes à salades;Newman's Own  Ranch Dressing;290;1;30;20;530
+95;Desserts;Nuts (for Sundaes);40;2;3;0;55
+96;Breuvages;Orange Juice (12 fl oz cup);140;2;0;0;5
+97;Breuvages;Orange Juice (16 fl oz cup);180;3;0;0;5
+98;Breuvages;Orange Juice (21 fl oz cup);250;4;0;0;10
+99;Desserts;Oreo  McFlurry™ (12 fl oz cup);570;15;20;70;280
+100;Desserts;Oreo  McFlurry™ (16 fl oz cup);820;22;29;100;420
+101;Sandwich;Quarter Pounder  ;420;23;21;70;780
+102;Sandwich;Quarter Pounder  with Cheese ;530;28;30;95;1250
+103;Desserts;Raspberry Triple Thick™ Shake (12 fl oz cup) ;420;11;12;50;150
+104;Desserts;Raspberry Triple Thick™ Shake (16 fl oz cup) ;560;14;16;65;190
+105;Desserts;Raspberry Triple Thick™ Shake (21 fl oz cup) ;730;19;21;90;260
+106;Desserts;Raspberry Triple Thick™ Shake (32 fl oz cup) ;1120;28;32;135;390
+107;Déjeuners;Sausage;170;6;16;35;290
+108;Déjeuners;Sausage Biscuit;410;10;28;35;930
+109;Déjeuners;Sausage Biscuit with Egg;490;16;33;245;1010
+110;Déjeuners;Sausage Déjeuners Burrito ;290;13;16;170;680
+111;Déjeuners;Sausage Egg & Cheese McGriddles™;550;20;33;260;1290
+112;Déjeuners;Sausage McGriddles™;420;11;23;35;970
+113;Déjeuners;Sausage McMuffin ;370;14;23;50;790
+114;Déjeuners;Sausage McMuffin  with Egg;450;20;28;260;930
+115;Déjeuners;Scrambled Eggs (2);160;13;11;425;170
+116;Salades;Side Salad;15;1;0;0;10
+117;Frites;Small Frites;210;3;10;0;135
+118;Desserts;Snack Size Fruit 'n Yogurt Parfait (w/o granola)¯;130;4;2;5;55
+119;Desserts;Snack Size Fruit 'n Yogurt Parfait¯;160;4;2;5;85
+120;Déjeuners;Spanish Omelete Bagel;710;27;40;275;1520
+121;Breuvages;Sprite  (Child) ;110;0;0;0;40
+122;Breuvages;Sprite  (Large) ;310;0;0;0;115
+123;Breuvages;Sprite  (Medium) ;210;0;0;0;80
+124;Breuvages;Sprite  (Small) ;150;0;0;0;55
+125;Breuvages;Sprite  (Super Size ) ;410;0;0;0;150
+126;Déjeuners;Steak Egg & Cheese Bagel;640;31;31;265;1540
+127;Desserts;Strawberry Sundae;290;7;7;30;95
+128;Desserts;Strawberry Triple Thick™ Shake (12 fl oz cup);420;11;12;50;140
+129;Desserts;Strawberry Triple Thick™ Shake (16 fl oz cup);560;14;16;65;190
+130;Desserts;Strawberry Triple Thick™ Shake (21 fl oz cup);730;19;21;90;250
+131;Desserts;Strawberry Triple Thick™ Shake (32 fl oz cup);1120;28;32;135;380
+132;Frites;Super Size  Frites;610;9;29;0;390
+133;Croquettes;Sweet 'N Sour Sauce;50;0;0;0;140
+134;Desserts;Vanilla Reduced Fat Ice Cream Cone;150;4;4;20;75
+135;Desserts;Vanilla Triple Thick™ Shake (12 fl oz cup);430;11;12;50;300
+136;Desserts;Vanilla Triple Thick™ Shake (16 fl oz cup);570;14;16;65;400
+137;Desserts;Vanilla Triple Thick™ Shake (21 fl oz cup);750;18;21;90;530
+138;Desserts;Vanilla Triple Thick™ Shake (32 fl oz cup);1140;28;32;135;810
